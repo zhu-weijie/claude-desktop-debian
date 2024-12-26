@@ -101,7 +101,7 @@ When a new version of Claude Desktop is released, simply update the `CLAUDE_DOWN
 
 # License
 
-The build scripts in this repository, as well as `patchy-cnb`, are dual-licensed under the terms of the MIT license and the Apache License (Version 2.0).
+The build scripts in this repository, are dual-licensed under the terms of the MIT license and the Apache License (Version 2.0).
 
 See [LICENSE-MIT](LICENSE-MIT) and [LICENSE-APACHE](LICENSE-APACHE) for details.
 
