@@ -43,6 +43,9 @@ sudo dpkg -i ./build/electron-app/claude-desktop_0.8.1_amd64.deb
 # - Guide you through installation
 ```
 
+# Open the claude-desktop app
+claude-desktop
+
 Requirements:
 - Any Debian-based Linux distribution
 - Node.js >= 12.0.0 and npm
