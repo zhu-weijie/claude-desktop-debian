@@ -41,10 +41,10 @@ sudo dpkg -i ./build/electron-app/claude-desktop_0.8.1_amd64.deb
 # - Download and extract resources from the Windows version
 # - Create a proper Debian package
 # - Guide you through installation
-```
 
 # Open the claude-desktop app
 claude-desktop
+```
 
 Requirements:
 - Any Debian-based Linux distribution
